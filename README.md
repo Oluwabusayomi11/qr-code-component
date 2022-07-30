@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -14,13 +14,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-
 ## Overview
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qrcode-component-using-css-flexbox-4nc1tcS05Z)
+- Live Site URL: [Live Site](https://oluwabusayomi11.github.io/qr-code-component/)
 
 ## My process
 
@@ -30,7 +29,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - CSS custom properties
 - Flexbox
 
-
 ### What I learned
 
 I was able to test my knowledge on CSS flexbox and also to understand max-width.
@@ -39,7 +37,3 @@ I was able to test my knowledge on CSS flexbox and also to understand max-width.
 
 - Frontend Mentor - [@Oluwabusayomi11](https://www.frontendmentor.io/profile/Oluwabusayomi11)
 - Twitter - [@busayomi_i](https://www.twitter.com/busayomi_i)
-
-
-
-

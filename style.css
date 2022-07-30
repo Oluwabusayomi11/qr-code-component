@@ -1,7 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@500;600;700;800&display=swap');
+
 *{
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+}
+html {
+  font-size: 62.5%;
 }
 body{
     background: hsl(212,45%,89%);
@@ -47,4 +52,12 @@ p{
     font-size: 14px;
     font-weight: 500;
     color: hsl(220,15%,55%);
+}
+.attribution {
+  padding-top: 10px;
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
 }
